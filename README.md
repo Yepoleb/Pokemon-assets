@@ -11,10 +11,10 @@ Scripts for exporting Pokémon assets.
 
 ##Usage
 
-Copy a Pokemon Fire Red rom to ./firered.gba
-Run `./export.sh`
-If you don't want to run the full script, make sure to execute `makedirs.py` 
-before anything else and `export_tilesets.py` before `export_maps.py`.
+1. Copy a Pokemon Fire Red rom to ./firered.gba (md5: e26ee0d44e809351c8ce2d73c7400cdd)
+2. Run `./export.sh`  
+
+If you don't want to run the full script, make sure to execute `makedirs.py` before anything else and `export_tilesets.py` before `export_maps.py`.
 
 
 
@@ -22,3 +22,4 @@ before anything else and `export_tilesets.py` before `export_maps.py`.
 [TileCodecs]:https://github.com/Yepoleb/TileCodecs
 [fork of pytmxlib]:https://github.com/Yepoleb/pytmxlib
 [fork of Blue Spider]:https://github.com/Yepoleb/blue-spider
+
